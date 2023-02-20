@@ -25,3 +25,7 @@ https://drive.google.com/file/d/1au8QGPSjxltTO74R8P9wZTfpRJFuIK5C/view
 <br>3.Pandas</br>
 <br>4.Matplotlib</br>
 <br>5.Seabrn</br>
+
+<b>Visual Representation</b>
+![Crop_Production_PowerBI](https://user-images.githubusercontent.com/101198326/220107359-12084a1d-9448-4d68-81ff-354e75067fc4.png)
+
